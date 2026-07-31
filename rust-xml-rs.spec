@@ -7,8 +7,8 @@
 %global crate xml-rs
 
 Name:           rust-%{crate}
-Version:        0.8.0
-Release:        6%{?dist}
+Version:        1.0.0
+Release:        1%{?dist}
 Summary:        XML library in pure Rust
 
 # Upstream license specification: MIT
